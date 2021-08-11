@@ -1,1 +1,1 @@
-# responsive-singlor-page-theme
+# responsive-single-page-theme
