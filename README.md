@@ -1,0 +1,1 @@
+# responsive-singlor-page-theme
